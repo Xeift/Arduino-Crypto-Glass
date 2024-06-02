@@ -20,13 +20,17 @@ Display BTC, ETH, BNB realtime price.
 |           Total           |694.2 TWD (23.14 USD)|  |
 
 # Board
-I use [Seeed Studio XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/). It's cheaper than Arduino nano/mini pro, have built-in bluetooth + Wi-Fi module and it'd super small. 
+I use [Seeed Studio XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/). It's cheaper than Arduino nano/mini pro, have built-in bluetooth + Wi-Fi module and it'd super small.
+![IMG_20240602_230647](https://github.com/Xeift/Arduino-Crypto-Glass/assets/80938768/82ee2573-f12a-41f4-a268-e6b783df9977)
 
 # Display
 I use 0.96 inch oled display.
 
-# Mirror
+# Mirror and Glass Cutter
 I use 45mm * 45 mm * 2mm mirror.
+![IMG_20240602_234804](https://github.com/Xeift/Arduino-Crypto-Glass/assets/80938768/4ed29f39-d51e-4217-a635-331b118c4f31)
+And glass cutter without kerosene.
+![IMG_20240602_234914](https://github.com/Xeift/Arduino-Crypto-Glass/assets/80938768/814e51a8-ebc7-4a23-84c0-7820eb0e5f9a)
 
 # Lens
 I use Fresnel lens with 10cm focal.
