@@ -3,7 +3,6 @@ An projection glass that display realtime crypto price using Seeed Studio XIAO E
 
 # Credits
 This is not an original project. The main inspiration for this project comes from [Alain's Projects](https://www.instructables.com/Arduino-Data-Glasses-for-My-Multimeter/). However, I change some part, e.g. I use Fresnel lens instead of magnifying glass; use Seeed Studio XIAO ESP32C3 instead of Arduino Pro Micro. 
-m
 
 # Result
 ![glass](https://github.com/Xeift/Arduino-Crypto-Glass/assets/80938768/701e33d3-ed5c-4b7d-ba32-8e481aa57b82)
